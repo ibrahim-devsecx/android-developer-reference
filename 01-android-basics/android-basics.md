@@ -94,7 +94,7 @@ ART → Native Code
 -  Camera
 - Calendar
 
-![[Pasted image 20251207230039.png]]
+![Android Architecture](../assets/images/android-architecture.png)
 
 
 #### Ultra Short
